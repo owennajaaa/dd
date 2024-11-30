@@ -24,11 +24,11 @@
   --darkplus-links: #cdaef3;
   --darkplus-home-icon: url();
   --watermark-filter-invert: 0%;
-  --watermark-filter-sepia: 50%;
-  --watermark-filter-saturate: 3000%;
-  --watermark-filter-hue-rotate: 210deg;
-  --watermark-filter-brightness: 70%;
-  --watermark-filter-contrast: 200%;
+  --watermark-filter-sepia: 0%;
+  --watermark-filter-saturate: 0%;
+  --watermark-filter-hue-rotate: 0;
+  --watermark-filter-brightness: 0%;
+  --watermark-filter-contrast: 0%;
 }
 
 .bg_d4b6c5,
